@@ -194,10 +194,10 @@ The project compares four ensemble algorithms:
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |---|---:|---:|---:|---:|---:|
-| Random Forest | — | — | — | — | — |
-| Extra Trees | — | — | — | — | — |
-| Gradient Boosting | — | — | — | — | — |
-| XGBoost | — | — | — | — | — |
+| **Gradient Boosting** | **71.93%** | **59.67%** | **31.73%** | **41.43%** | **73.51%** |
+| Random Forest | 71.41% | 59.02% | 28.11% | 38.08% | 72.97% |
+| Extra Trees | 70.98% | 57.26% | 28.51% | 38.07% | 71.87% |
+| AdaBoost | 72.11% | 63.16% | 26.02% | 36.86% | **73.84%** |
 
 > The final values are generated from the actual dataset during model evaluation. The model with the strongest overall performance is selected as the final fraud detection model.
 
