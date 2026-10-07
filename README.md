@@ -263,7 +263,6 @@ UPI-Fraud-Detection/
 │   └── UPI_Fraud_Detection.ipynb
 │
 ├── results/
-│   ├── model_comparison.csv
 │   └── confusion_matrix.png
 │
 ├── README.md
